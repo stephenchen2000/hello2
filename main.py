@@ -1,6 +1,8 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
 def main():
-    print("Hello, World!")
-    print("这是一个简单的Python程序")
+    print("welcome")
 
 if __name__ == "__main__":
     main()
